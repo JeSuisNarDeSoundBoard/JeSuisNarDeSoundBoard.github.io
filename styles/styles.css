@@ -34,6 +34,7 @@ body {
    height: auto;
    padding-bottom: 1%;
    padding-top: 1%;
+   background-color: rgba(221,221,221,0.1);
 }
 
 .Round-item {
@@ -62,26 +63,31 @@ body {
 }
 
 .Round-img-3 { 
-	background-image: url(../images/Empty.jpg);
+	background-image: url(../images/Jelle1.jpg);
 	background-size: cover;
 }
 
 .Round-img-4 { 
-	background-image: url(../images/Empty.jpg);
+	background-image: url(../images/Sem2.jpg);
 	background-size: cover;
 }
 
 .Round-img-5 { 
-	background-image: url(../images/Empty.jpg);
+	background-image: url(../images/JelleDR1.jpg);
 	background-size: cover;
 }
 
 .Round-img-6 { 
-	background-image: url(../images/Empty.jpg);
+	background-image: url(../images/Sem3.jpg);
 	background-size: cover;
 }
 
 .Round-img-7 { 
+	background-image: url(../images/JelleDR2.jpg);
+	background-size: cover;
+}
+
+.Round-img-8 { 
 	background-image: url(../images/Empty.jpg);
 	background-size: cover;
 }
@@ -229,12 +235,11 @@ body {
 .Titel_block {
 	height: auto;
 	bottom: 0;
-	padding: 1%;
 	background-color: #686859;
 	color: white;
 	position: relative;
 	background-attachment: fixed;
-	font-size: 150%;
+	font-size: 300%;
 }
 
 .Titel {
@@ -245,6 +250,34 @@ body {
    padding-bottom: 1%;
    padding-top: 1%;
 }
+
+.Titel_block_apk {
+	height: auto;
+	bottom: 0;
+	color: white;
+	position: relative;
+	background-attachment: fixed;
+	font-size: 350%;
+	text-align: center;
+}
+
+.Soundblock_1 {
+	background-color: #7a3d3d
+}
+
+.Soundblock_2 {
+	background-color: #006633
+}
+
+.Titel_apk {
+	overflow: hidden;
+   max-width:1100px;
+   margin:auto;
+   height: auto;
+   padding-bottom: 1%;
+   padding-top: 1%;
+}
+
 
 #footer {
 	height: auto;
