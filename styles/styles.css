@@ -88,9 +88,70 @@ body {
 }
 
 .Round-img-8 { 
+	background-image: url(../images/Sjaak7.jpg);
+	background-size: cover;
+}
+
+.Round-img-9 { 
+	background-image: url(../images/Onno1.jpg);
+	background-size: cover;
+}
+
+.Round-img-10 { 
+	background-image: url(../images/Sjaak2.jpg);
+	background-size: cover;
+}
+
+.Round-img-11 { 
+	background-image: url(../images/Sjaak3.jpg);
+	background-size: cover;
+}
+
+.Round-img-12 { 
+	background-image: url(../images/Sjaak4.jpg);
+	background-size: cover;
+}
+
+.Round-img-13 { 
+	background-image: url(../images/Sjaak5.jpg);
+	background-size: cover;
+}
+
+.Round-img-14 { 
+	background-image: url(../images/Sjaak1.jpg);
+	background-size: cover;
+}
+
+.Round-img-15 { 
+	background-image: url(../images/Sjaak6.jpg);
+	background-size: cover;
+}
+
+.Round-img-16 { 
+	background-image: url(../images/Jelle2.jpg);
+	background-size: cover;
+}
+
+.Round-img-17 { 
+	background-image: url(../images/Jelle3.jpg);
+	background-size: cover;
+}
+
+.Round-img-18 { 
+	background-image: url(../images/Jelle4.jpg);
+	background-size: cover;
+}
+
+.Round-img-19 { 
+	background-image: url(../images/Jelle5.jpg);
+	background-size: cover;
+}
+
+.Round-img-0 { 
 	background-image: url(../images/Empty.jpg);
 	background-size: cover;
 }
+
 
 .Round-info {
 	position: absolute;
@@ -249,6 +310,7 @@ body {
    height: auto;
    padding-bottom: 1%;
    padding-top: 1%;
+   padding-left: 5%;
 }
 
 .Titel_block_apk {
@@ -267,6 +329,10 @@ body {
 
 .Soundblock_2 {
 	background-color: #006633
+}
+
+.Soundblock_3 {
+	background-color: #b3b300
 }
 
 .Titel_apk {
